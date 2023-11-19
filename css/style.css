@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(243, 241, 244);
+    
+}
+head{color: rgb(255, 106, 0);}
+
+h3{
+    color:rgb(7, 8, 8)
+}
+
+#resultado h3{
+    color:blue
+}
+
+h1{
+    background-color:rgba(247, 247, 246, 0.871);
+    border-style: solid;color: rgb(223, 112, 112);
+    border-radius: 10px;
+    border-color:rgb(54, 112, 197)
+    
+    
+
+}
+
+#resultado h3{
+    color: black;
+    background-color: blue;
+
+}
+
+header{text-align: center;}
